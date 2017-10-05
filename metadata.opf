@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04c004c9-56eb-444c-8bb5-0150c4dfd16f</dc:identifier>
+        <dc:title>I promessi sposi</dc:title>
+        <dc:creator opf:file-as="Manzoni, Alessandro" opf:role="aut">Alessandro Manzoni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1840-07-14T23:00:00+00:00</dc:date>
+        <dc:description>Preceduto dal Fermo e Lucia, spesso considerato romanzo a sé, fu edito in una prima versione nel 1827 (detta edizione ventisettana); rivisto in seguito dallo stesso autore, soprattutto nel linguaggio, fu ripubblicato nella versione definitiva fra il 1840 e il 1841-42 (edizione quarantana).
+Ambientato dal 1628 al 1630 in Lombardia durante il dominio spagnolo, fu il primo esempio di romanzo storico della letteratura italiana.</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn:uuid:963d8e16-1985-11e7-8c64-4c72b9252ec6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.feedbooks.com/book/6913</dc:identifier>
+        <dc:language>ita</dc:language>
+        <dc:subject>Narrativa</dc:subject>
+        <dc:subject>Storico</dc:subject>
+        <dc:subject>Moderna (&lt;1799)</dc:subject>
+        <meta content="{&quot;Alessandro Manzoni&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-07-28T07:58:34.770000+00:00" name="calibre:timestamp"/>
+        <meta content="promessi sposi, I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Copertina" type="cover"/>
+    </guide>
+</package>
